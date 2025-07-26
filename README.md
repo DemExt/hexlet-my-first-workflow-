@@ -1,1 +1,2 @@
 test
+[![show-directory](https://github.com/DemExt/hexlet-my-first-workflow-/actions/workflows/show-directory.yml/badge.svg)](https://github.com/DemExt/hexlet-my-first-workflow-/actions/workflows/show-directory.yml)
